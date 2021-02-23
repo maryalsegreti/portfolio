@@ -5,7 +5,7 @@ A sampling of statistics and data science projects completed by me through indep
 ## Data Cleaning & Visualizaion
 
 #### [Student Support Team Data Exploration](https://rpubs.com/maryalsegreti/SST)
-Cleaning and visualtion of multiple data sets in R in order to analyze student GPA and attendance discrepencies between student program, student demographic info, and courses.
+Cleaning and visualtion of multiple data sets in R in order to analyze student GPA and attendance discrepencies between student program, student demographic info, and course level.
 
 
 ## Data Analysis / Hypothesis Testing / Machine Learning
